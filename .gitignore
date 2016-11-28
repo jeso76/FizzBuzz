@@ -12,7 +12,6 @@
 
 # App modules
 !src/
-src/*
 
 
 # Explicita undantag för vissa resurser, var de än befinner sig
