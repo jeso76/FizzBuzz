@@ -6,5 +6,5 @@ Men för multiplar av tre, skriv "Fizz" istället för talet och för multiplar 
 För tal som är multiplar av BÅDE tre och fem, skriv "FizzBuzz".
 
 **Hur** 
-TDD ska användas och uppgiften ska lösas med hjälp av funktionallitet i Java8.
+TDD ska användas och uppgiften ska lösas med hjälp av funktionalitet i Java8.
 
